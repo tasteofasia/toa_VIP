@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/toa_VIP/static/css/main.bd04c10b.chunk.css",
-    "main.js": "/toa_VIP/static/js/main.de33e6b5.chunk.js",
-    "main.js.map": "/toa_VIP/static/js/main.de33e6b5.chunk.js.map",
+    "main.js": "/toa_VIP/static/js/main.72a9ebba.chunk.js",
+    "main.js.map": "/toa_VIP/static/js/main.72a9ebba.chunk.js.map",
     "runtime-main.js": "/toa_VIP/static/js/runtime-main.b5934946.js",
     "runtime-main.js.map": "/toa_VIP/static/js/runtime-main.b5934946.js.map",
     "static/js/2.3ec9170d.chunk.js": "/toa_VIP/static/js/2.3ec9170d.chunk.js",
     "static/js/2.3ec9170d.chunk.js.map": "/toa_VIP/static/js/2.3ec9170d.chunk.js.map",
     "static/css/3.b804cbd6.chunk.css": "/toa_VIP/static/css/3.b804cbd6.chunk.css",
-    "static/js/3.ee3d0ea3.chunk.js": "/toa_VIP/static/js/3.ee3d0ea3.chunk.js",
-    "static/js/3.ee3d0ea3.chunk.js.map": "/toa_VIP/static/js/3.ee3d0ea3.chunk.js.map",
+    "static/js/3.8a1e5ebd.chunk.js": "/toa_VIP/static/js/3.8a1e5ebd.chunk.js",
+    "static/js/3.8a1e5ebd.chunk.js.map": "/toa_VIP/static/js/3.8a1e5ebd.chunk.js.map",
     "static/js/4.af8a13c6.chunk.js": "/toa_VIP/static/js/4.af8a13c6.chunk.js",
     "static/js/4.af8a13c6.chunk.js.map": "/toa_VIP/static/js/4.af8a13c6.chunk.js.map",
     "static/js/5.9b46b3ce.chunk.js": "/toa_VIP/static/js/5.9b46b3ce.chunk.js",
@@ -20,7 +20,7 @@
     "static/css/3.b804cbd6.chunk.css.map": "/toa_VIP/static/css/3.b804cbd6.chunk.css.map",
     "static/css/main.bd04c10b.chunk.css.map": "/toa_VIP/static/css/main.bd04c10b.chunk.css.map",
     "static/js/2.3ec9170d.chunk.js.LICENSE.txt": "/toa_VIP/static/js/2.3ec9170d.chunk.js.LICENSE.txt",
-    "static/js/3.ee3d0ea3.chunk.js.LICENSE.txt": "/toa_VIP/static/js/3.ee3d0ea3.chunk.js.LICENSE.txt",
+    "static/js/3.8a1e5ebd.chunk.js.LICENSE.txt": "/toa_VIP/static/js/3.8a1e5ebd.chunk.js.LICENSE.txt",
     "static/js/4.af8a13c6.chunk.js.LICENSE.txt": "/toa_VIP/static/js/4.af8a13c6.chunk.js.LICENSE.txt",
     "static/js/5.9b46b3ce.chunk.js.LICENSE.txt": "/toa_VIP/static/js/5.9b46b3ce.chunk.js.LICENSE.txt",
     "static/media/GenJyuuGothic-Bold.3afa3f74.ttf": "/toa_VIP/static/media/GenJyuuGothic-Bold.3afa3f74.ttf",
@@ -29,8 +29,8 @@
   "entrypoints": [
     "static/js/runtime-main.b5934946.js",
     "static/css/3.b804cbd6.chunk.css",
-    "static/js/3.ee3d0ea3.chunk.js",
+    "static/js/3.8a1e5ebd.chunk.js",
     "static/css/main.bd04c10b.chunk.css",
-    "static/js/main.de33e6b5.chunk.js"
+    "static/js/main.72a9ebba.chunk.js"
   ]
 }
